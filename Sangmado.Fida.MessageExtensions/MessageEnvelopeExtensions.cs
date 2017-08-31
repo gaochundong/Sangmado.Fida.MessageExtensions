@@ -1,4 +1,4 @@
-﻿using Sangmado.Inka.MessageEncoding;
+﻿using Sangmado.Fida.MessageEncoding;
 
 namespace Sangmado.Fida.Messages
 {
